@@ -21,9 +21,9 @@ sudo -i -u ubuntu
 ssh-keygen -b 4096
 ```
 
-5. Add it to all the nodes **authorized_hosts** files in the *.ssh* folder (ubuntu user)
+5. Add the content of *id_rssa.pub* to all the nodes **authorized_hosts** files in the *.ssh* folder (ubuntu user)
 
-6. on **node-master** run:
+6. on **node-master** start the hadoop cluster by runing:
 ```shell
 start-all.sh
 ```
