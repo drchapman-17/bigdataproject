@@ -1,4 +1,6 @@
-# Big Data Project
+# Big Data Project 2022-2023
+
+## Stefano Ciapponi
 
 ### Setup:
 
