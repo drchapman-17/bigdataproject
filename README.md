@@ -10,6 +10,8 @@
 vagrant up --provision
 ```
 
+inside the vagrant folder.
+
 2. Access the **node-master** virtual Machine using *vagrant ssh*
 
 3. Switch user:
