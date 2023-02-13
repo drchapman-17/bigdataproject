@@ -4,13 +4,13 @@
 
 ### Setup:
 
-1. Build the VM cluster running:
+1. Build the VM cluster running the following comand inside the vagrant folder (vagrant should be installed):
 
 ```shell
 vagrant up --provision
 ```
 
-inside the vagrant folder.
+
 
 2. Access the **node-master** virtual Machine using *vagrant ssh*
 
