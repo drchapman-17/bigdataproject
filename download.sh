@@ -1,0 +1,1 @@
+wget --directory-prefix=data -r https://dati-simc.arpae.it/opendata/eraclito/timeseries/
