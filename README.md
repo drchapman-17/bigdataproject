@@ -36,4 +36,6 @@ start-all.sh
 
 8. run *download.sh* and *unzip.sh* to download and unzip the dataset.
 
-9. open the notebook
+9. put di *eraclito.geojson* file in the *data* folder
+
+10. open the Notebook.
